@@ -1,0 +1,8 @@
+عند توسيط عنصر في المنتصف 
+margin: 10px auto;
+
+ input عند تغيير علامة الكتابة في 
+caret-color: blue; 
+
+لتحويل النص االي حروف كبيرة او العكس
+text-transform: uppercase;
